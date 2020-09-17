@@ -1,0 +1,20 @@
+
+    /* this is a style tag */
+    body {font-family: 'Raleway', sans-serif;}
+    
+    /* this is an element selector */
+    h3 {font-weight: 300;}
+    h2 {font-weight: 600;}
+
+    /* this is a class selector */
+    .section-one {background-color: #92898A;}
+    .section-one {color: white;}
+    .section-two {background-color: #AF9FA5}
+    .section-three {background-color: #E4DEE4;}
+
+    /* this is an ID selector */
+    #recordplayer {border: solid;
+    border-width: 5px;
+    border-color:#EDE3E4}
+    
+    
