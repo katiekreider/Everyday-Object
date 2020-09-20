@@ -11,6 +11,8 @@
     .section-one {color: white;}
     .section-two {background-color: #AF9FA5}
     .section-three {background-color: #E4DEE4;}
+    .section-one {text-align:center;}
+    .section-three {text-align:center;}
 
     /* this is an ID selector */
     #recordplayer {border: solid;
